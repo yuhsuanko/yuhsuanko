@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Yu-Hsuan Ko - Data Scientist | AML & Fraud Analytics
+## Yu-Hsuan (Monica) Ko - Data Scientist | AML & Fraud Analytics
 
 **Passionate about transforming data into actionable insights in the fight against financial crime.**
 
