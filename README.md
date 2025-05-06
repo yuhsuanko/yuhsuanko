@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 **Passionate about transforming data into actionable insights in the fight against financial crime.**
 
-Welcome! I'm Yu-Hsuan Ko, a graduate student in Applied Data Science at the University of Chicago. With a strong background in AML, fraud detection, and machine learning, I strive to build AI solutions that make a difference.
+Welcome! I'm Yu-Hsuan (Monica) Ko, a graduate student in Applied Data Science at the University of Chicago. With a strong background in AML, fraud detection, and machine learning, I strive to build AI solutions that make a difference.
